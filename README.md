@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on **DevNexus** – an all-in-one academic ecosystem for students.<br><br>👯 I'm looking to collaborate on **Full-Stack, Frontend, AI, and Open Source Projects**.<br><br>🤝 I'm interested in contributing to **Open Source and Product-Focused Development**.<br><br>🌱 I'm currently learning **Spring Boot, System Design, Cloud, and AI Integration**.<br><br>💬 Ask me about **React, JavaScript, UI/UX, Product Development, and Full-Stack Development**.<br><br>⚡ Fun fact: **I love building products that solve real-world problems.**
+Hi, I'm Syed Sharfuddin Shuaib 👋<br><br>Full-Stack Software Engineer passionate about building scalable web applications, intuitive user experiences, and products that solve real-world problems.
 
 
 ## 🌐 Socials:
