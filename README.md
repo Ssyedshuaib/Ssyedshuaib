@@ -48,7 +48,6 @@ I enjoy transforming ideas into real products while continuously exploring moder
 
 <img src="imgs/img2.png" width="15"/> <em><b> Passionate about Product Development </b></em><br/>
 
-<img src="imgs/img1.png" width="15"/> <em><b> Bangalore, India 🇮🇳 </b></em>
 
 </p>
 
