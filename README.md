@@ -112,8 +112,4 @@ I enjoy transforming ideas into real products while continuously exploring moder
 
 <img src="https://streak-stats.demolab.com?user=Ssyedshuaib&theme=dark&hide_border=false"/>
 
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ssyedshuaib&layout=compact&theme=dark&hide_border=false"/>
-
 </div>
